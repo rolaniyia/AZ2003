@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/iAheWUEic4=",
+  "success": true,
+  "projectFilePath": "/Users/raphaelolaniyi/19th Sept 26-BOT/AZ2003/AZ2003.csproj",
+  "expectedPackageFiles": [
+    "/Users/raphaelolaniyi/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "/Users/raphaelolaniyi/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
